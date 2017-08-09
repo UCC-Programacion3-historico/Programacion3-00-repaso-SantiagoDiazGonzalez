@@ -3,7 +3,13 @@
 
 
 class Color {
-
+private:
+    float Rojo;
+    float Verde;
+    float Azul;
+public:
+    float getColor;
+    float tenirColor;
 };
 
 

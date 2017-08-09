@@ -12,6 +12,6 @@ int main() {
 
     double elapsed_secs = double(end - begin) / CLOCKS_PER_SEC;
 
-    cout << "Tardo elapsed_secs" << elapsed_secs << "\n" << std::endl;
+    cout << "Tardo elapsed_secs " << elapsed_secs << "\n" << std::endl;
     return 0;
 }
